@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# Overview of my project with an image :   
+![alt text](https://github.com/abhishekml121/react_projects/blob/02-react-project%3DADD-USER/Screenshot_20211121_220217.png)
 
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
