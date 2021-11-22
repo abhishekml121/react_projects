@@ -1,4 +1,4 @@
-# Overview of my project with an image :   
+# Overview of the project with an image :   
 ![alt text](https://github.com/abhishekml121/react_projects/blob/02-react-project%3DADD-USER/Screenshot_20211121_220217.png)
 
 # Getting Started with Create React App
