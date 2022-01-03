@@ -1,0 +1,38 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    font-size: 2em;
+    background-color: beige;
+    gap: 1em;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input{
+    font-size: 0.8em;
+    padding: 5px 8px;
+    display: block;
+    color: #4f5050;
+}
+
+form .submit_container input[type="submit"]{
+    padding: 10px 50px;
+    cursor: pointer;
+}
+
+form .error{
+    color: red;
+    font-size: 0.5em;
+    margin-top: 5px;
+}
+
+header{
+    color: green;
+}
+.red-border{
+    border: 1px solid red;
+}
